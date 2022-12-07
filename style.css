@@ -160,3 +160,68 @@ form{
   
   
 }
+
+#linkedin{
+
+height: 35px;
+width: 120px;
+font-size: 18px;
+font-family: cursive;
+border-radius: 7px;
+color: #002869;
+opacity : 0.9;
+background-color: wheat;
+border-color: #0090fe;
+
+}
+
+
+#github{
+
+  height: 35px;
+  width: 120px;
+  font-size: 18px;
+  font-family: cursive;
+  border-radius: 7px;
+  color: #000000;
+  opacity : 0.9;
+  background-color: wheat;
+  border-color: #000000;
+  
+  }
+
+  #linkedin:hover{
+
+border-color: #75c3ff;
+background-color: rgb(0, 255, 247);
+
+  }
+
+  #curriculo{
+
+    height: 35px;
+    width: 120px;
+    font-size: 18px;
+    font-family: cursive;
+    border-radius: 7px;
+    color: #7b0000;
+    opacity : 0.9;
+    background-color: wheat;
+    border-color:#7b0000;
+    
+    }
+
+    #github:hover{
+
+      border-color: #75c3ff;
+      background-color: rgb(189, 189, 189);
+      
+        }
+        
+#curriculo:hover{
+
+border-color: #ff4242;
+background-color: #ff4242;;
+
+  }
+
