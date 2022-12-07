@@ -168,10 +168,11 @@ width: 120px;
 font-size: 18px;
 font-family: cursive;
 border-radius: 7px;
-color: #002869;
+color: #ffffff;
 opacity : 0.9;
-background-color: wheat;
+
 border-color: #0090fe;
+background-color:transparent;
 
 }
 
@@ -183,17 +184,18 @@ border-color: #0090fe;
   font-size: 18px;
   font-family: cursive;
   border-radius: 7px;
-  color: #000000;
+  color: #ffffff;
   opacity : 0.9;
-  background-color: wheat;
-  border-color: #000000;
+  background-color:transparent;
+  border-color: #ffffff;
   
   }
 
   #linkedin:hover{
 
 border-color: #75c3ff;
-background-color: rgb(0, 255, 247);
+background-color: rgb(0, 42, 141);
+transform: translateY(-5px);
 
   }
 
@@ -204,24 +206,32 @@ background-color: rgb(0, 255, 247);
     font-size: 18px;
     font-family: cursive;
     border-radius: 7px;
-    color: #7b0000;
+    color: #ffffff;
     opacity : 0.9;
-    background-color: wheat;
-    border-color:#7b0000;
+    background-color:transparent;
+    border-color:#ca1d1d;
     
     }
 
     #github:hover{
 
-      border-color: #75c3ff;
-      background-color: rgb(189, 189, 189);
+      border-color: #003d6c;
+      background-color: rgb(0, 0, 0);
+      transform: translateY(-5px);
       
         }
         
 #curriculo:hover{
 
 border-color: #ff4242;
-background-color: #ff4242;;
+background-color: #a80f0f;
+transform: translateY(-5px);
+
+  }
+
+  nav{
+
+    position: fixed;
 
   }
 
